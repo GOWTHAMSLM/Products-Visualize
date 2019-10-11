@@ -13,11 +13,11 @@ Clone this repository in your local machine and navigate to folder
 
 ### `cd backend`
 
-Navigate to backend folder and follow the steps given in the [backend](https://github.com/GOWTHAMSLM/Products-Visualize/backend) for setting up backend server.
+Navigate to backend folder and follow the steps given in the [backend](https://github.com/GOWTHAMSLM/Products-Visualize/tree/master/backend) for setting up backend server.
 
 ### `cd frontend`
 
-Navigate to frontend folder and follow the steps given in the [frontend](https://github.com/GOWTHAMSLM/Products-Visualize/frontend) for setting up frontend server.
+Navigate to frontend folder and follow the steps given in the [frontend](https://github.com/GOWTHAMSLM/Products-Visualize/tree/master/frontend) for setting up frontend server.
 
 ### `Opening web app`
 

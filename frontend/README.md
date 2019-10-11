@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Pre requesites
 * [Node.js](https://nodejs.org/)
-* [Backend server running on a PORT](https://github.com/GOWTHAMSLM/Products-Visualize/backend)
+* [Backend server running on a PORT](https://github.com/GOWTHAMSLM/Products-Visualize/tree/master/backend)
 
 ## Installation
 
